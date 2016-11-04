@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+nativefier toggl.com --name=Toggl --disable-dev-tools --flash false --verbose --disable-context-menu --platform=$1
